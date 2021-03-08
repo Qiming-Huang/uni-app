@@ -1,0 +1,10 @@
+
+.tText {
+	word-break: break-all;
+	border: solid;
+	border-color: #007AFF;
+	margin: 20rpx;
+	padding: 20rpx;
+	border-radius: 15rpx;
+}
+

@@ -1,0 +1,1 @@
+<view><t-text vue-id="4ea2cdf6-1" text="{{text}}" bind:__l="__l"></t-text><view style="display:flex;justify-content:center;"><view class="heart"></view></view></view>
